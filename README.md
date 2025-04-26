@@ -6,7 +6,7 @@ This repository contains files related to the DAUP project, including:
 - Text data processing
 
 ## Files
-- : CSV file operations
+- https://github.com/STwisha/DAUP/blob/main/daup_csv_(1).ipynb : CSV file operations
 
 - https://github.com/STwisha/DAUP/blob/main/daup_img_53.ipynb : Image file operations
 
