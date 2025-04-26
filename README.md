@@ -11,3 +11,8 @@ This repository contains files related to the DAUP project, including:
 - https://github.com/STwisha/DAUP/blob/main/daup_img_53.ipynb : Image file operations
 
 - https://github.com/STwisha/DAUP/blob/main/daup_text%20(2).ipynb : Text file operations
+
+image dataset:https://www.kaggle.com/code/reeryid/rock-paper-scissor-classification
+
+
+
